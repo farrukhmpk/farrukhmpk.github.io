@@ -1,2 +1,6 @@
 # farrukhmpk.github.io
 Farrukh Mirza
+
+Team Management | Solution Architect | System Architect | Software Architect | Technical Architect | Microservices | Agilist | Programme & Product Management
+
+I enjoy working in competitive environments that allow innovation, vision development and growth. I thrive in fast paced environments in a leadership role. I have more than 6 years of experience of project management, team leadership and management, enterprise architecture, and overall 14 years of experience of software design, development, integration and maintenance. I have worked in mobile virtual network operations, energy, financial transaction (e-Banking, e-Commerce), software lifecycle management and research environments. I have proactively taken responsibilities to manage teams & projects from conception to delivery while maintaining excellent relationship with the customer, exceeding their expectations on multiple occasions and advising them about their future software investments. I have lead & managed multiple co-located, nearshore & offshore scrum teams. I have proven ability to adapt with diverse professional experience in Republic of Ireland, Portugal, Kingdom of Bahrain and Pakistan.
