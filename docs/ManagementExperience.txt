@@ -1,0 +1,43 @@
+Overall I have a collaborative management style in the sense that I coordinate with stake holders, scrum masters/project managers and the delivery team to identify, prioritize and assign tasks to appropriate development resources. I encourage the developers to take responsibility for the tasks instead of assigning tasks, but I assign tasks when they are unclaimed and impeding delivery of the business value and work stream. Generally before making a decision, I weigh all pros and cons and encourage a healthy debate among the team.
+
+Some of the targeted answers below as per your request. Hope they help.
+
+Bank of Ireland
+	Leadership of 2 architects, 1 project manager & 1 business analyst
+------
+Client Solutions Ltd (All below activities were carried out independently with their own timelines, many times in parallel)
+	While delivering Tesco Mobile project involving re-platforming back-office system on microservices architecture, in addition to public facing front-end system (my.tescomobile.ie), managed a team of:
+		2 testers in Serbia
+		1 UX designer was engaged in Serbia
+		3 developers in Dublin, 2 of them were promoted to senior engineers. 1 developer in Dublin also worked as DevOps Engineer.
+		1 UX designer in Dublin after the resource in Serbia moved on
+		1 Senior Engineer/Architect in London (Was full-time employee working from Dublin, later moved to London and worked for the team as a contractor). This resource also worked as DevOps Engineer.
+	Bespoke projects delivered from Cork
+		1 technical lead directly reported to me in Cork, 3 developers were working for him. The team in Cork focused on bespoke projects, small in nature. The team worked independently to deliver projects in Cork.
+	Product Team
+		1 developer in Serbia
+		1 developer in Dublin (Reused on the existing team)
+	Advanced Analytics Team
+		Initiated Advanced Analytics Team in Poland through a vendor partner (small outfit).
+		2 Data Engineers working on R, PowerBI, Microstrategy, SQL Server Enterprise Datawarehouse.
+		
+	Recruited 3 Engineers in Dublin (Java Backend & JQuery/React/Angular Front end). Directly responsible for their annual performance reviews.
+	Recruited 2 Junior Engineer in Dublin, and made senior engineers responsible for this engineers technical output.
+	Recruited 1 UX designer in Dublin. Trained him to deliver reusable & engineered front end components.
+
+	Mentored .Net developers and architects as well.
+	
+	Encouraged the team to contribute to open source to improve their competency and coding practices.
+	Encouraged the team to read at least multiple article per week, ideally in technology that we were not using at the time.
+	Scheduled bi-weekly technology presentations between Cork and Dublin teams to share knowledge and upskill engineers.
+	Mentored 2 developers to step into team leadership role and made them responsible for junior developers.
+	Put in place tooling like Rally (CA Agile Central), Atlassian product suite (Jira/Bitbucket) & Opensource DocuWiki for improved collaboration and agile project management.
+	Scheduled daily team scrum/stand up, sometimes twice a day depending on delivery schedule and situation. 
+
+------
+Trinity College Dublin
+	Technical Leadership & Task assignment of 1 researcher in Dublin and 1 researcher in Portugal.
+------
+Avanza Solutions Ltd
+	While delivering ATM Controller, Financial Middleware & ATM Card generation solution
+		Technical Leadership & task assignment of 3 developers working on the project.
