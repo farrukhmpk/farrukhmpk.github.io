@@ -1,28 +1,34 @@
 Overall I have a collaborative management style in the sense that I coordinate with stake holders, scrum masters/project managers and the delivery team to identify, prioritize and assign tasks to appropriate development resources. I encourage the developers to take responsibility for the tasks instead of assigning tasks, but I assign tasks when they are unclaimed and impeding delivery of the business value and work stream. Generally before making a decision, I weigh all pros and cons and encourage a healthy debate among the team.
 
-Some of the targeted answers below as per your request. Hope they help.
-
 Bank of Ireland
-	Leadership of 2 architects, 1 project manager & 1 business analyst
+	Currently working in the role of Lead Solution Architect.
+	Leading of 2 architects, 1 project manager & 1 business analyst.
+	Also mentored and coached Technical Architects, Test Architect, Product Owners, Scrum Masters and Technical Leads.
 ------
 Client Solutions Ltd (All below activities were carried out independently with their own timelines, many times in parallel)
-	While delivering Tesco Mobile project involving re-platforming back-office system on microservices architecture, in addition to public facing front-end system (my.tescomobile.ie), managed a team of:
+	Managed 3 teams reporting to me & 1 independent team having following configuration. In total, managed 9 people directly and 1 technical lead as a satellite team.
+	
+	Tesco Mobile Team: 7/8 members. Delivered Tesco Mobile programme of work involving re-platforming back-office CRM system built on microservices architecture, in addition to public facing front-end system (my.tescomobile.ie)
 		2 testers in Serbia
 		1 UX designer was engaged in Serbia
 		3 developers in Dublin, 2 of them were promoted to senior engineers. 1 developer in Dublin also worked as DevOps Engineer.
 		1 UX designer in Dublin after the resource in Serbia moved on
 		1 Senior Engineer/Architect in London (Was full-time employee working from Dublin, later moved to London and worked for the team as a contractor). This resource also worked as DevOps Engineer.
-	Bespoke projects delivered from Cork
-		1 technical lead directly reported to me in Cork, 3 developers were working for him. The team in Cork focused on bespoke projects, small in nature. The team worked independently to deliver projects in Cork.
-	Product Team
+	RDMA Product Team: 4 members. Data Management product providing secure front end, able to connect to disparate & distributed databases.
 		1 developer in Serbia
-		1 developer in Dublin (Reused on the existing team)
-	Advanced Analytics Team
-		Initiated Advanced Analytics Team in Poland through a vendor partner (small outfit).
+		1 developer in Dublin (Reused from the existing team)
+		1 UX designer in Dublin (Reused from the existing team)
+		1 tester in Serbia
+	DevOps Team: 2 member. Responsible for implementing ALM Tooling & CICD pipeline on multiple projects including Tesco Mobile Ireland, Irish Water, The AA Ireland.
+		1 developer in Dublin (Reused from the existing team)
+		1 Senior Engineer/Architect in London (Was full-time employee working from Dublin, later moved to London and worked for the team as a contractor).
+	Advanced Analytics Team: 2 members. Initiated Advanced Analytics Team in Poland through a vendor partner (small outfit).
 		2 Data Engineers working on R, PowerBI, Microstrategy, SQL Server Enterprise Datawarehouse.
+	Independent Team delivering bespoke projects in Cork
+		1 technical lead directly reported to me in Cork, 3 developers were working for him. The team in Cork focused on bespoke projects, small in nature. The team worked independently to deliver projects in Cork.
 		
 	Recruited 3 Engineers in Dublin (Java Backend & JQuery/React/Angular Front end). Directly responsible for their annual performance reviews.
-	Recruited 2 Junior Engineer in Dublin, and made senior engineers responsible for this engineers technical output.
+	Recruited 2 Junior Engineer in Dublin, and made senior engineers responsible for their technical output.
 	Recruited 1 UX designer in Dublin. Trained him to deliver reusable & engineered front end components.
 
 	Mentored .Net developers and architects as well.
