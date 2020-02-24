@@ -1,12 +1,14 @@
 Overall I have a collaborative management style in the sense that I coordinate with stake holders, scrum masters/project managers and the delivery team to identify, prioritize and assign tasks to appropriate development resources. I encourage the developers to take responsibility for the tasks instead of assigning tasks, but I assign tasks when they are unclaimed and impeding delivery of the business value and work stream. Generally before making a decision, I weigh all pros and cons and encourage a healthy debate among the team.
 
 Bank of Ireland
-	Currently working in the role of Lead Solution Architect.
+	Currently working in the role of Lead Solution Architect (DevOps Transformation).
 	Leading of 2 architects, 1 project manager & 1 business analyst.
 	Also mentored and coached Technical Architects, Test Architect, Product Owners, Scrum Masters and Technical Leads.
+	
+	Technology Selection, Work Items identification, Identifying resources, planning & assigning work items to individuals & teams, coaching PMs on project component structure, mentoring technical architects in their deliverables, coaching technical leads and test architects in identifying & remedying bottlenecks.
 ------
 Client Solutions Ltd (All below activities were carried out independently with their own timelines, many times in parallel)
-	Managed 3 teams reporting to me & 1 independent team having following configuration. In total, managed 9 people directly and 1 technical lead as a satellite team.
+	Managed multiple teams reporting to me & 1 independent team having following configuration. In total, managed 9 people directly and 1 technical lead as a satellite team.
 	
 	Tesco Mobile Team: 7/8 members. Delivered Tesco Mobile programme of work involving re-platforming back-office CRM system built on microservices architecture, in addition to public facing front-end system (my.tescomobile.ie)
 		2 testers in Serbia
