@@ -22,6 +22,9 @@ Client Solutions Ltd (All below activities were carried out independently with t
 	DevOps Team: 2 member. Responsible for implementing ALM Tooling & CICD pipeline on multiple projects including Tesco Mobile Ireland, Irish Water, The AA Ireland.
 		1 developer in Dublin (Reused from the existing team)
 		1 Senior Engineer/Architect in London (Was full-time employee working from Dublin, later moved to London and worked for the team as a contractor).
+	Naturgy Team: 2 members. Team was delivering data migration & support services. Worked in Project Manager capacity.
+		1 Technical Architect (.Net)
+		1 Senior Database Engineer (Oracle, SQL Server)
 	Advanced Analytics Team: 2 members. Initiated Advanced Analytics Team in Poland through a vendor partner (small outfit).
 		2 Data Engineers working on R, PowerBI, Microstrategy, SQL Server Enterprise Datawarehouse.
 	Independent Team delivering bespoke projects in Cork
