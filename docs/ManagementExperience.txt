@@ -5,7 +5,7 @@ Bank of Ireland
 	Leading of 2 architects, 1 project manager & 1 business analyst.
 	Also mentored and coached Technical Architects, Test Architect, Product Owners, Scrum Masters and Technical Leads.
 	
-	Technology Selection, Work Items identification, Identifying resources, planning & assigning work items to individuals & teams, coaching PMs on project component structure, mentoring technical architects in their deliverables, coaching technical leads and test architects in identifying & remedying bottlenecks.
+	Technology Selection, Work Items identification, Identifying resources, planning & assigning work items to individuals & sub-teams, coaching PMs on project component structure, mentoring technical architects in their deliverables, coaching technical leads and test architects in identifying & remedying bottlenecks.
 ------
 Client Solutions Ltd (All below activities were carried out independently with their own timelines, many times in parallel)
 	Managed multiple teams reporting to me & 1 independent team having following configuration. In total, managed 9 people directly and 1 technical lead as a satellite team.
