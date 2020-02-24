@@ -51,4 +51,4 @@ Trinity College Dublin
 ------
 Avanza Solutions Ltd
 	While delivering ATM Controller, Financial Middleware & ATM Card generation solution
-		Technical Leadership & task assignment of 3 developers working on the project.
+		Technical Leadership & task assignment of 3 developers working on the project in Bank Muscat International (Bahrain).
